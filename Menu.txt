@@ -9,6 +9,14 @@ Bevande:
 -Vino
 -Birra
 
+
+Desssert:
+-Tiramisù
+-Torta alle mele
+-Torta al cioccolato
+-Panna cotta
+-Fracole con gelato
+
 Antipasti
 
 - insalata russa
