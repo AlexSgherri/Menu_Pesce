@@ -8,3 +8,12 @@ Bevande:
 -Acqua
 -Vino
 -Birra
+
+Antipasti
+
+- insalata russa
+- vuolevant all'astice
+- formaggi
+- hummus di ceci
+- marmellate
+- verdura impanata
