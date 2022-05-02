@@ -8,3 +8,8 @@ Bevande:
 -Acqua
 -Vino
 -Birra
+
+Primi piatti:
+-Spaghetti con le vongole
+-Risotto agli scampi
+-linguine allo scoglio
