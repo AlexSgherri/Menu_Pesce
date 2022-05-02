@@ -10,6 +10,9 @@ Bevande:
 -Birra
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> fe2aaa6bafb3c0e1f843830d39a0695db3a3c1e5
 Antipasti
 
 - insalata russa
@@ -18,11 +21,18 @@ Antipasti
 - hummus di ceci
 - marmellate
 - verdura impanata
+<<<<<<< HEAD
 =======
+=======
+
+>>>>>>> fe2aaa6bafb3c0e1f843830d39a0695db3a3c1e5
 Desssert:
 -Tiramisù
 -Torta alle mele
 -Torta al cioccolato
 -Panna cotta
 -Fracole con gelato
+<<<<<<< HEAD
 >>>>>>> 56bc49ec38e1b02bb99c4001aa7e111a04b312c1
+=======
+>>>>>>> fe2aaa6bafb3c0e1f843830d39a0695db3a3c1e5
